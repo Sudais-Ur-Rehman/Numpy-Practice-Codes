@@ -1,0 +1,163 @@
+# NumPy Practice Problems (30 Total)
+
+# ---------------------
+# EASY (1–10)
+# ---------------------
+
+# problem1_array_creation.ipynb
+"""
+Create a NumPy array with values from 10 to 50.
+"""
+
+# problem2_even_numbers.ipynb
+"""
+Create a NumPy array of all even numbers from 2 to 20.
+"""
+
+# problem3_replace_odd.ipynb
+"""
+Replace all odd numbers in an array with -1.
+"""
+
+# problem4_reshape.ipynb
+"""
+Create a 1D array of 9 elements and reshape it to 3x3.
+"""
+
+# problem5_identity_matrix.ipynb
+"""
+Create a 4x4 identity matrix.
+"""
+
+# problem6_border_ones.ipynb
+"""
+Create a 5x5 array with 1s on the border and 0 inside.
+"""
+
+# problem7_extract_column.ipynb
+"""
+Create a 3x3 array and extract the second column.
+"""
+
+# problem8_data_types.ipynb
+"""
+Create an array of floats and convert it to integers.
+"""
+
+# problem9_random_array.ipynb
+"""
+Generate a 2x3 array of random floats between 0 and 1.
+"""
+
+# problem10_arange_reverse.ipynb
+"""
+Create a NumPy array from 100 to 10 in descending order.
+"""
+
+# ---------------------
+# MEDIUM (11–25)
+# ---------------------
+
+# problem11_matrix_multiplication.ipynb
+"""
+Multiply two 3x3 matrices.
+"""
+
+# problem12_normal_distribution.ipynb
+"""
+Generate 1000 samples from a normal distribution.
+"""
+
+# problem13_stack_arrays.ipynb
+"""
+Stack two arrays vertically and horizontally.
+"""
+
+# problem14_boolean_masking.ipynb
+"""
+Create a mask for values > 5 in an array.
+"""
+
+# problem15_indexing.ipynb
+"""
+Get all elements greater than 10 from a given array.
+"""
+
+# problem16_broadcasting.ipynb
+"""
+Add a 1D array to each row of a 2D array using broadcasting.
+"""
+
+# problem17_nan_handling.ipynb
+"""
+Create an array with NaNs and replace NaNs with 0.
+"""
+
+# problem18_clip_values.ipynb
+"""
+Clip all values in an array between 10 and 50.
+"""
+
+# problem19_sort_array.ipynb
+"""
+Sort a 2D array row-wise.
+"""
+
+# problem20_find_unique.ipynb
+"""
+Find unique values in an array.
+"""
+
+# problem21_count_occurrences.ipynb
+"""
+Count how many times each value occurs in an array.
+"""
+
+# problem22_percentile.ipynb
+"""
+Calculate 25th, 50th, and 75th percentiles of an array.
+"""
+
+# problem23_matrix_determinant.ipynb
+"""
+Compute the determinant of a 3x3 matrix.
+"""
+
+# problem24_diagonal_sum.ipynb
+"""
+Find the sum of the main diagonal of a 4x4 matrix.
+"""
+
+# problem25_split_array.ipynb
+"""
+Split a 1D array of size 12 into 3 equal parts.
+"""
+
+# ---------------------
+# CHALLENGING (26–30)
+# ---------------------
+
+# problem26_custom_filter.ipynb
+"""
+Implement a custom filter that keeps elements divisible by both 3 and 5.
+"""
+
+# problem27_inverse_matrix.ipynb
+"""
+Find the inverse of a 3x3 matrix.
+"""
+
+# problem28_argmax_2d.ipynb
+"""
+Find the position of the maximum value in a 2D array.
+"""
+
+# problem29_set_operations.ipynb
+"""
+Perform union, intersection, and difference on two arrays.
+"""
+
+# problem30_mode_numpy.ipynb
+"""
+Find the mode (most frequent value) in a NumPy array.
+"""
